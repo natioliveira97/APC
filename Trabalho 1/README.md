@@ -16,11 +16,11 @@ Esse jogo deve ser jogado por duas pessoas. Existem 10 palitinhos e a cada jogad
 
 Esse jogo deve ser jogado por três pessoas e é uma forma avançada de pedra-papel-tesoura. As regras são:
 
-*Pedra ganha de Tesoura e Lagarto
-*Papel ganha de Pedra de Spock
-*Tesoura ganha de Papel e Lagarto
-*Spock ganha de Pedra e Tesoura
-*Lagarto ganha de Spock e Papel
+* Pedra ganha de Tesoura e Lagarto
+* Papel ganha de Pedra de Spock
+* Tesoura ganha de Papel e Lagarto
+* Spock ganha de Pedra e Tesoura
+* Lagarto ganha de Spock e Papel
 
 ## Para compilar esse projeto
 
