@@ -1,8 +1,8 @@
 # APC
 
-This repository contains the projects carried out in the APC subject.
+Esse repositótio contém os trabalhos realizados em APC.
 
-# Dependencies
+## Dependências
 
-To run this program it is necessary gcc compiler.
+Para rodar os programas é necessário ter o compilador GCC instalado.
 
