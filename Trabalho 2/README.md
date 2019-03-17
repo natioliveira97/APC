@@ -16,6 +16,7 @@ Nas configurações é possível alterar a dificuldade do jogo (Fácil, Médio e
 ```
 gcc -ansi -Wall trabalho_2.c -o trabalho_2
 ```
+## Para rodar esse projeto
 
 ```
 ./trabalho_2

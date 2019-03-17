@@ -20,6 +20,8 @@ Esse jogo possui um placar com o hístórico e resultados dos jogos realizados.
 gcc -ansi -Wall trabalho_3.c -o trabalho_3
 ```
 
+## Para compilar esse projeto
+
 ```
 ./trabalho_3
 ```
